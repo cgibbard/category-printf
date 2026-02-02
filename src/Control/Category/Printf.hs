@@ -1,4 +1,4 @@
-{-# LANGUAGE OverloadedStrings, FlexibleInstances, TypeFamilies, RankNTypes #-}
+{-# LANGUAGE FlexibleInstances, TypeOperators #-}
 
 module Control.Category.Printf 
   ( 
