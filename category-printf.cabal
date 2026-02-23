@@ -2,7 +2,7 @@
 cabal-version:       >=1.10
 
 name:                category-printf
-version:             0.1.1.0
+version:             0.1.1.1
 synopsis:            Highbrow approach to type-safe printf format specifications.
 description:         We use the co-Kleisli category for the comonad of
                      functions out of a fixed monoid to implement a generic
